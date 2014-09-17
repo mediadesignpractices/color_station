@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-VC0706-Serial-Camera-Library",
+  "homepage": "https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library",
+  "_release": "88e47651b2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "88e47651b29c863f791854801b87c3da24a7a92f"
+  },
+  "_source": "git@github.com:adafruit/Adafruit-VC0706-Serial-Camera-Library.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:adafruit/Adafruit-VC0706-Serial-Camera-Library.git/",
+  "_direct": true
+}

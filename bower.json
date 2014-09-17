@@ -20,6 +20,8 @@
     "tests"
   ],
   "dependencies": {
-    "Adafruit_TCS34725": "https://github.com/adafruit/Adafruit_TCS34725.git"
+    "Adafruit_TCS34725": "https://github.com/adafruit/Adafruit_TCS34725.git",
+    "Adafruit_TSL2561": "https://github.com/adafruit/Adafruit_TSL2561.git",
+    "Adafruit-VC0706-Serial-Camera-Library": "git@github.com:adafruit/Adafruit-VC0706-Serial-Camera-Library.git/"
   }
 }

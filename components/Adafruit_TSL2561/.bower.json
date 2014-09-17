@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit_TSL2561",
+  "homepage": "https://github.com/adafruit/Adafruit_TSL2561",
+  "_release": "72065d72f0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "72065d72f03b1250f6fb14440dd3343203fe1668"
+  },
+  "_source": "https://github.com/adafruit/Adafruit_TSL2561.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/adafruit/Adafruit_TSL2561.git",
+  "_direct": true
+}
