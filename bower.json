@@ -1,0 +1,25 @@
+{
+  "name": "color-station",
+  "version": "0.0.1",
+  "homepage": "https://github.com/unsalted/color-station",
+  "authors": [
+    "unsalted <nick@unsalted.nu>"
+  ],
+  "description": "A collection of sensors for collecting data on street lamps.",
+  "keywords": [
+    "arduino",
+    "color-sensor",
+    "camera"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Adafruit_TCS34725": "https://github.com/adafruit/Adafruit_TCS34725.git"
+  }
+}
