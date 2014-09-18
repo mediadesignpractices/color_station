@@ -17,6 +17,7 @@ https://github.com/adafruit/Adafruit_TCS34725
 
 
 ### Adafruit Lux Sensor
+*We may not need this sensor.*
 
 Documentation:
 https://learn.adafruit.com/tsl2561
