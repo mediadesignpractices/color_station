@@ -15,7 +15,6 @@ https://learn.adafruit.com/adafruit-color-sensors/programming
 Dependencies:
 https://github.com/adafruit/Adafruit_TCS34725
 
-
 ### Adafruit Lux Sensor
 *We may not need this sensor.*
 
