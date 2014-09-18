@@ -1,0 +1,14 @@
+{
+  "name": "SD",
+  "homepage": "https://github.com/adafruit/SD",
+  "_release": "f44a011927",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f44a011927855ea223673a2ee350664991705975"
+  },
+  "_source": "https://github.com/adafruit/SD.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/adafruit/SD.git",
+  "_direct": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Adafruit-GPS-Library",
+  "_cacheHeaders": {
+    "ETag": "\"b5e96c7558b8733d667472983c774021\"",
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "_release": "e-tag:b5e96c755",
+  "main": "index",
+  "_source": "https://github.com/adafruit/Adafruit-GPS-Library",
+  "_target": "*",
+  "_originalSource": "https://github.com/adafruit/Adafruit-GPS-Library",
+  "_direct": true
+}

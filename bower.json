@@ -22,6 +22,8 @@
   "dependencies": {
     "Adafruit_TCS34725": "https://github.com/adafruit/Adafruit_TCS34725.git",
     "Adafruit_TSL2561": "https://github.com/adafruit/Adafruit_TSL2561.git",
-    "Adafruit-VC0706-Serial-Camera-Library": "git@github.com:adafruit/Adafruit-VC0706-Serial-Camera-Library.git/"
+    "Adafruit-VC0706-Serial-Camera-Library": "git@github.com:adafruit/Adafruit-VC0706-Serial-Camera-Library.git/",
+    "SD": "https://github.com/adafruit/SD.git",
+    "Adafruit-GPS-Library": "https://github.com/adafruit/Adafruit-GPS-Library"
   }
 }
