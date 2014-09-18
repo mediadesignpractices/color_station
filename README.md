@@ -38,5 +38,5 @@ Documentation:
 https://learn.adafruit.com/adafruit-ultimate-gps-logger-shield/sd-logging
 
 Dependencies:
-https://github.com/adafruit/Adafruit-GPS-Library \\
+https://github.com/adafruit/Adafruit-GPS-Library </br>
 https://github.com/adafruit/SD
