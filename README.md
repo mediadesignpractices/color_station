@@ -5,7 +5,6 @@ A collection of sensors for collecting data on street lamps.
 
 
 ## Research
------------
 
 ### Adafruit Color Sensor
 
