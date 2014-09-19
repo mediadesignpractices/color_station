@@ -3,19 +3,19 @@ color-station
 
 A collection of sensors for collecting data on street lamps.
 
-## Possible detour
+### Possible detour
 !!!Parsing the same data from raw image files with gpx data added to them. TBD after more testing.!!!
 
-##Dependencies:
+###Dependencies:
 
 (this doc assumes you have recent versions of homebrew and node on your computer)
 
-ExifTool: brew install exiftool
+to install ExifTool ``brew install exiftool``
 
 Run ``bower install`` and ``npm install`` to automatically load other dependencies.
 
 -----------------
-
+<br>
 ## Research
 
 ### ExifTool
