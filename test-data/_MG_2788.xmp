@@ -1,0 +1,102 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:Rating="0"
+   xmp:ModifyDate="2014-03-10T11:05:19.31+01:00"
+   xmp:CreateDate="2014-03-10T11:05:19.31+01:00"
+   xmp:MetadataDate="2014-03-10T10:14:23+01:00"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 7D"
+   tiff:ImageWidth="5184"
+   tiff:ImageLength="3456"
+   tiff:PhotometricInterpretation="2"
+   tiff:SamplesPerPixel="3"
+   tiff:Orientation="1"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/100"
+   exif:ShutterSpeedValue="6643856/1000000"
+   exif:ExposureProgram="1"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="100"
+   exif:ExposureBiasValue="0/1"
+   exif:MeteringMode="5"
+   exif:FocalLength="50/1"
+   exif:CustomRendered="0"
+   exif:ExposureMode="1"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="5184000/907"
+   exif:FocalPlaneYResolution="3456000/595"
+   exif:FocalPlaneResolutionUnit="2"
+   exif:DateTimeOriginal="2014-03-10T11:05:19.31+01:00"
+   exif:PixelXDimension="5184"
+   exif:PixelYDimension="3456"
+   dc:format="image/x-canon-cr2"
+   aux:SerialNumber="1070710142"
+   aux:ImageNumber="0"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="2.0.0"
+   photoshop:DateCreated="2014-03-10T11:05:19.31+01:00"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile=""
+   photoshop:SidecarForExtension="CR2"
+   photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
+   xmpMM:DocumentID="5FC4AB8A4E15E5F507A93D400497FFDB"
+   xmpMM:OriginalDocumentID="5FC4AB8A4E15E5F507A93D400497FFDB"
+   xmpMM:InstanceID="xmp.iid:2d1d8516-004e-4992-bbe1-753b46a372d6"
+   crs:RawFileName="_MG_2788.CR2"
+   crs:Version="8.3"
+   crs:HasSettings="False"
+   crs:HasCrop="False"
+   crs:AlreadyApplied="False">
+   <tiff:BitsPerSample>
+    <rdf:Seq>
+     <rdf:li>16</rdf:li>
+     <rdf:li>16</rdf:li>
+     <rdf:li>16</rdf:li>
+    </rdf:Seq>
+   </tiff:BitsPerSample>
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <dc:rights>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Nick Meehan</rdf:li>
+    </rdf:Alt>
+   </dc:rights>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Nicholas Meehan</rdf:li>
+     <rdf:li>Nick Meehan</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:2d1d8516-004e-4992-bbe1-753b46a372d6"
+      stEvt:when="2014-03-10T10:14:23+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 8.3 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
