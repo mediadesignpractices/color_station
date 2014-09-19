@@ -3,10 +3,10 @@ color-station
 
 A collection of sensors for collecting data on street lamps.
 
-### Possible detour
-!!!Parsing the same data from raw image files with gpx data added to them. TBD after more testing.!!!
+#### Possible detour
+[[Parsing the same data from raw image files with gpx data added to them. TBD after more testing.]]
 
-###Dependencies:
+#### Dependencies:
 
 (this doc assumes you have recent versions of homebrew and node on your computer)
 
