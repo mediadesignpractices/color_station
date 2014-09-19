@@ -3,8 +3,24 @@ color-station
 
 A collection of sensors for collecting data on street lamps.
 
+## Possible detour
+!!!Parsing the same data from raw image files with gpx data added to them. TBD after more testing.!!!
+
+##Dependencies:
+
+(this doc assumes you have recent versions of homebrew and node on your computer)
+
+ExifTool: brew install exiftool
+
+Run ``bower install`` and ``npm install`` to automatically load other dependencies.
+
+-----------------
 
 ## Research
+
+### ExifTool
+parses metadata from images.
+http://www.sno.phy.queensu.ca/~phil/exiftool/
 
 ### Adafruit Color Sensor
 
