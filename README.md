@@ -4,7 +4,7 @@ color-station
 A collection of sensors for collecting data on street lamps.
 
 #### Possible detour
-[[ Parsing the same data from raw image files with gpx data added to them. TBD after more testing. ]]
+Parsing the same data from raw image files with gpx data added to them. TBD after more testing.
 
 #### Dependencies:
 
