@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/unsalted/color-station/issues"
   },
-  "homepage": "https://github.com/unsalted/color-station"
+  "homepage": "https://github.com/unsalted/color-station",
+  "dependencies": {
+    "exiftool": "0.0.3"
+  }
 }
