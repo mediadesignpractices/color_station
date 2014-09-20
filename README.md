@@ -46,6 +46,9 @@ Documentation: https://learn.adafruit.com/ttl-serial-camera
 Dependencies: 
 https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library
 
+*This adds a level of complexity we most likely won't need either*
+
+
 ### Adafruit Ultimate GPS Sheild
 
 Documentation: 
