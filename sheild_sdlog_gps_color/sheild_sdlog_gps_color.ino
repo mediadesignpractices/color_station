@@ -80,8 +80,11 @@ void error(uint8_t errno) {
     }
   }
 }
-
+// Declare tcs
 Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_700MS, TCS34725_GAIN_1X);
+
+// Set GTC to Los Angeles Time
+int GTC = -8;
 
 void setup() {
   
@@ -233,7 +236,7 @@ void loop() {
     // Super. log it!
     Serial.println("Log: start");
     //Time  
-    logfile.print(GPS.hour, DEC);
+    logfile.print(GPS.hour + GTC, DEC);
     logfile.print(':');
     logfile.print(GPS.minute, DEC);
     logfile.print(':');
@@ -287,7 +290,7 @@ void loop() {
     Serial.println();
     Serial.println("Logged Data:");
     // Time
-    Serial.print(GPS.hour, DEC);
+    Serial.print(GPS.hour + GTC, DEC);
     Serial.print(':');
     Serial.print(GPS.minute, DEC);
     Serial.print(':');
