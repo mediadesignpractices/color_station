@@ -154,7 +154,7 @@ for (uint8_t i = 0; i < 100; i++) {
 
   Serial.println("Ready!");
   // Print CSV headers to serial
-  Serial.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Satellites, Color Temp, Lux, R, G, B, C");
+  Serial.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Satellites, Color Temp, Lux, R, G, B, C\n");
 }
 
 
@@ -275,7 +275,7 @@ void loop() {
     // Wait for logging to finish
     logfile.flush();
     // Print to serial
-    Serial.println("Logging: complete");
+    Serial.println("Log: complete");
     Serial.println();
     Serial.println("Logged Data:");
     // Time
