@@ -102,7 +102,7 @@ void useInterrupt(boolean v) {
 uint32_t timer = millis();
 void loop()                     // run over and over again
 {
-  
+    tcs.setInterrupt(true);      // turn on LED
   // in case you are not using the interrupt above, you'll
   // need to 'hand query' the GPS, not suggested :(
   if (! usingInterrupt) {
