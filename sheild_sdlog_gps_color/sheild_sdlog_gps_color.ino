@@ -289,40 +289,40 @@ void loop() {
     Serial.print(GPS.seconds, DEC);
     Serial.print('.');
     Serial.print(GPS.milliseconds);
-    Serial.print(",");
+    Serial.print(", ");
     // Date
     Serial.print(GPS.month, DEC); 
     Serial.print('/');
     Serial.print(GPS.day, DEC);
     Serial.print("/20");
     Serial.print(GPS.year, DEC);
-    Serial.print(",");
+    Serial.print(", ");
     // Coordinates
     Serial.print(GPS.latitude, 4);
     Serial.print(GPS.lat);
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(GPS.longitude, 4);
     Serial.print(GPS.lon);
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(GPS.altitude);
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(GPS.speed);
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(GPS.angle);
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print((int)GPS.satellites);
-    Serial.print(",");
+    Serial.print(", ");
     // Color temp
     Serial.print(colorTemp, DEC); 
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(lux, DEC); 
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(r, DEC); 
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(g, DEC); 
-    Serial.print(",");
+    Serial.print(", ");
     Serial.print(b, DEC); 
-    Serial.print(",");
+    Serial.print(", ");
     Serial.println(c, DEC);
 
     Serial.print("\n");
