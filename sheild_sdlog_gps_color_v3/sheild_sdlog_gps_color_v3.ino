@@ -6,15 +6,18 @@
 #include <Adafruit_TCS34725.h>
 #include <avr/sleep.h>
 
-// Code hacked together by Nick Meehan nick@unsalted.nu -
+// Code hacked together by Nick Meehan - unsalted.nu
 // In association with: Art Center College of Design - Media Design Practices - MFA
 //
 // This code is a combination of two code sets:
 // https://github.com/adafruit/Adafruit-GPS-Library/tree/master/examples/shield_sdlog
 // https://github.com/adafruit/Adafruit_TCS34725/tree/master/examples/tcs34725
 //
-// With additional help from: http://www.instructables.com/id/Personal-Black-Box-Arduino-Mega-Ultimate-GPS-Shiel/
-// The goal of this code is to map coordinates with color data taken by TCS34725
+// With additional help from: 
+// http://www.instructables.com/id/Personal-Black-Box-Arduino-Mega-Ultimate-GPS-Shiel/
+//
+// The goal of this code was to map coordinates with color data taken by the TCS34725 
+// to log street lamp types in Los Angeles.
 //
 //
 // Developed on the Adafruit Ultimate GPS + Logging Shield & TCS34725 RGB Color Sensor
