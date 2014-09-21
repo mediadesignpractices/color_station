@@ -1,26 +1,23 @@
 color-station
 =============
 
-A collection of sensors for collecting data on street lamps.
 
-#### Possible detour
-Parsing the same data from raw image files with gpx data added to them. TBD after more testing.
+Using color sensors and gps coordinates to map the color of light at night in Los Angeles
 
 #### Dependencies:
 
 (this doc assumes you have recent versions of homebrew and node on your computer)
 
-to install ExifTool ``brew install exiftool``
-
 Run ``bower install`` and ``npm install`` to automatically load other dependencies.
+
+Move components e.g. (Adafruit_TCS34725) to your Arduino library.
 
 -----------------
 <br>
-## Research
 
-### ExifTool
-parses metadata from images.
-http://www.sno.phy.queensu.ca/~phil/exiftool/
+### Arduino Mega 2560
+
+http://arduino.cc/en/Main/arduinoBoardMega2560
 
 ### Adafruit Color Sensor
 
@@ -29,24 +26,6 @@ https://learn.adafruit.com/adafruit-color-sensors/programming
 
 Dependencies:
 https://github.com/adafruit/Adafruit_TCS34725
-
-### Adafruit Lux Sensor
-*We may not need this sensor.*
-
-Documentation:
-https://learn.adafruit.com/tsl2561
-
-Dependencies:
-https://github.com/adafruit/Adafruit_TSL2561
-
-### Adafruit Serial Camera
-
-Documentation: https://learn.adafruit.com/ttl-serial-camera
-
-Dependencies: 
-https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library
-
-*This adds a level of complexity we most likely won't need either*
 
 
 ### Adafruit Ultimate GPS Sheild
