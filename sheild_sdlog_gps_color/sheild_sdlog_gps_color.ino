@@ -132,7 +132,7 @@ for (uint8_t i = 0; i < 100; i++) {
   Serial.print("Writing to "); 
   Serial.println(filename);
   // Print csv header
-  logfile.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Satellites, Color Temp, Lux, R, G, B, C");
+  logfile.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C");
   logfile.flush();
 
   // connect to the GPS at the desired rate
@@ -157,7 +157,7 @@ for (uint8_t i = 0; i < 100; i++) {
 
   Serial.println("Ready!");
   // Print CSV headers to serial
-  Serial.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Satellites, Color Temp, Lux, R, G, B, C\n");
+  Serial.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C\n");
 }
 
 
@@ -261,6 +261,11 @@ void loop() {
     logfile.print(",");
     logfile.print(GPS.angle);
     logfile.print(",");
+    // Quality
+    logfile.print((int)GPS.fix);
+    logfile.print(",");
+    logfile.print((int)GPS.fixquality);
+    logfile.print(",");
     logfile.print((int)GPS.satellites);
     logfile.print(",");
     //Color
@@ -309,6 +314,11 @@ void loop() {
     Serial.print(GPS.speed);
     Serial.print(", ");
     Serial.print(GPS.angle);
+    Serial.print(", ");
+    // Quality
+    Serial.print((int)GPS.fix);
+    Serial.print(", ");
+    Serial.print((int)GPS.fixquality);
     Serial.print(", ");
     Serial.print((int)GPS.satellites);
     Serial.print(", ");
