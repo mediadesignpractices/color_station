@@ -39,14 +39,14 @@ Dependencies:
 - https://github.com/adafruit/SD
 
 ##csvtogpx
------------------
+---
 
 I wrote a python script that converts a directory of .csv log files to .gpx waypoint coordinates that can be mapped in other programs.
 
-It is a command line script... to use it:
+It is a command line script... to use it
     
-    1. navigate to the directory with the script
-    2. `python csvtogpx.py './relative/directory/of/csv/files'`
-    3. marvel your fancy new gpx files.
+1. navigate to the directory with the script
+2. `python csvtogpx.py './relative/directory/of/csv/files'`
+3. marvel your fancy new gpx files.
 
 So you might be wondering why we don't just generate the gpx file on the device. How thoughtful of you. We are trying to limit the amount of parsing that needs to done on the device, csv files are light weight and don't require complicated headers etc.'
