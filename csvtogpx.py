@@ -17,7 +17,7 @@ if not os.path.exists('./xml'):
 csvFiles = [f for f in os.listdir('.') if f.endswith('.csv') or f.endswith('.CSV')]
 
 for csvFile in csvFiles:
-    xmlFile = './xml/'+csvFile[:-4] + '.xml'
+    xmlFile = './xml/'+csvFile[:-4] + '.gpx'
     csvData = csv.reader(open(csvFile))
     xmlData = open(xmlFile, 'w')
 
@@ -94,7 +94,7 @@ for csvFile in csvFiles:
             xmlData.write('\t\t'+'<sym>Dot</sym>'+'\n')
             xmlData.write('\t\t'+'<sat>'+row[9]+'</sat>'+'\n')
             xmlData.write('\t\t'+'<fix>'+fix(row[8], row[9])+'</fix>'+'\n')
-            xmlData.write('\t\t'+'<src>Arduino Mega with GPS sheild</sat>'+'\n')
+            xmlData.write('\t\t'+'<src>Arduino Mega with GPS sheild</src>'+'\n')
             #xmlData.write('\t'+'<sat>'+row[]+'</sat>'+'\n')
             xmlData.write('\t'+'</wpt>' + "\n")
         rowNum +=1
