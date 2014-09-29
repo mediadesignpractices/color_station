@@ -30,6 +30,7 @@ Adafruit_GPS GPS(&mySerial);
 // Set GPSECHO to 'false' to turn off echoing the GPS data to the Serial console
 // Set to 'true' if you want to debug and listen to the raw GPS sentences
 #define GPSECHO  false
+
 /* set to true to only log to SD when GPS has a fix, for debugging, keep it false */
 #define LOG_FIXONLY false  
 
@@ -37,6 +38,8 @@ Adafruit_GPS GPS(&mySerial);
 // off by default!
 boolean usingInterrupt = false;
 void useInterrupt(boolean); // Func prototype keeps Arduino 0023 happy
+
+char csvHeader[120] = "Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C";
 
 // Set the pins used
 #define chipSelect 10
@@ -81,11 +84,11 @@ void error(uint8_t errno) {
   }
 }
 // Declare TCS
-Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_700MS, TCS34725_GAIN_1X);
+Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_500MS, TCS34725_GAIN_1X);
 
 
 void setup() {
-  
+
   if (tcs.begin()) {
     Serial.println("Found sensor");
     } else {
@@ -107,17 +110,17 @@ void setup() {
 
   // see if the card is present and can be initialized:
   if (!SD.begin(chipSelect, 11, 12, 13)) {
-  Serial.println("Card init. failed!");
-  error(2);
-}
+    Serial.println("Card init. failed!");
+    error(2);
+  }
 
 
-char filename[15];
-strcpy(filename, "GPSLOG00.CSV");
+  char filename[15];
+  strcpy(filename, "GPSLOG00.CSV");
 
-for (uint8_t i = 0; i < 100; i++) {
-  filename[6] = '0' + i/10;
-  filename[7] = '0' + i%10;
+  for (uint8_t i = 0; i < 100; i++) {
+    filename[6] = '0' + i/10;
+    filename[7] = '0' + i%10;
     // create if does not exist, do not open existing, write, sync after write
     if (! SD.exists(filename)) {
       break;
@@ -133,7 +136,7 @@ for (uint8_t i = 0; i < 100; i++) {
   Serial.print("Writing to "); 
   Serial.println(filename);
   // Print csv header
-  logfile.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C");
+  logfile.println(csvHeader);
   logfile.flush();
 
   // connect to the GPS at the desired rate
@@ -158,7 +161,7 @@ for (uint8_t i = 0; i < 100; i++) {
 
   Serial.println("Ready!");
   // Print CSV headers to serial
-  Serial.println("Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C\n");
+  Serial.println(csvHeader);
 }
 
 
@@ -233,6 +236,8 @@ void loop() {
 
     // Super. log it!
     Serial.println("Log: start");
+
+
     //Time  
     logfile.print(GPS.hour, DEC);
     logfile.print(':');

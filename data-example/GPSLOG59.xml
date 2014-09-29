@@ -1,0 +1,4950 @@
+<?xml version="1.0"?>
+<gpx
+	version="1.1"
+	creator="Nick Meehan">
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+	<time>2014-09-29T21:42:53.334206</time>
+	<wpt lat="34.06413167" lon="-118.36196167">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:44.300</time>
+		<name>6056</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06418833" lon="-118.36144167">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:45.363</time>
+		<name>6009</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06413833" lon="-118.36144167">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:46.363</time>
+		<name>5993</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06407833" lon="-118.36139167">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:47.367</time>
+		<name>5544</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06402167" lon="-118.36136000">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:48.367</time>
+		<name>5593</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06392667" lon="-118.36136000">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:49.367</time>
+		<name>5325</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06384667" lon="-118.36136000">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:50.367</time>
+		<name>5442</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06375667" lon="-118.36140833">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:51.363</time>
+		<name>4710</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06363500" lon="-118.36139167">
+		<ele>0.00</ele>
+		<time>9/26/2014T5:21:53.0</time>
+		<name>5351</name>
+		<sym>Dot</sym>
+		<sat>0</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06357000" lon="-118.36139167">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:54.0</time>
+		<name>6008</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06357000" lon="-118.36139167">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:54.0</time>
+		<name>5634</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06350833" lon="-118.36137667">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:55.0</time>
+		<name>5324</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06345167" lon="-118.36136000">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:56.0</time>
+		<name>5507</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06341000" lon="-118.36136000">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:57.0</time>
+		<name>5840</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06337333" lon="-118.36136000">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:58.0</time>
+		<name>6295</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06333667" lon="-118.36134333">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:21:59.0</time>
+		<name>6060</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06331333" lon="-118.36134333">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:0.0</time>
+		<name>5427</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06330000" lon="-118.36134333">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:1.0</time>
+		<name>5749</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06330000" lon="-118.36134333">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:2.0</time>
+		<name>5736</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06330000" lon="-118.36132667">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:3.0</time>
+		<name>5487</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06330000" lon="-118.36132667">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:4.0</time>
+		<name>5154</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06329333" lon="-118.36132667">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:5.0</time>
+		<name>5703</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06328833" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:6.0</time>
+		<name>6604</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06328833" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:6.0</time>
+		<name>6287</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06327667" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:7.0</time>
+		<name>6244</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06325667" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:8.0</time>
+		<name>6265</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06324333" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:9.0</time>
+		<name>6276</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06324333" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:9.0</time>
+		<name>6287</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06322833" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:10.0</time>
+		<name>6276</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06322000" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:11.0</time>
+		<name>6229</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06321167" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:12.0</time>
+		<name>6250</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06320667" lon="-118.36132667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:13.0</time>
+		<name>6306</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06320333" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:14.0</time>
+		<name>6417</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06320333" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:15.0</time>
+		<name>6415</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319833" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:16.0</time>
+		<name>6415</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319833" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:17.0</time>
+		<name>6481</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:18.0</time>
+		<name>6411</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:19.0</time>
+		<name>6371</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:20.0</time>
+		<name>6220</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:21.0</time>
+		<name>6483</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:22.0</time>
+		<name>6516</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:23.0</time>
+		<name>6476</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:24.0</time>
+		<name>6532</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:25.0</time>
+		<name>6418</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:26.0</time>
+		<name>6376</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:27.0</time>
+		<name>6545</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:28.0</time>
+		<name>6577</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:29.0</time>
+		<name>6376</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:30.0</time>
+		<name>6374</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:31.0</time>
+		<name>6338</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:32.0</time>
+		<name>6269</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:32.0</time>
+		<name>6187</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06319167" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:33.0</time>
+		<name>6138</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06318667" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:34.0</time>
+		<name>5965</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06315500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:35.0</time>
+		<name>5885</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06315500" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:35.0</time>
+		<name>5922</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06311000" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:36.0</time>
+		<name>5993</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06306000" lon="-118.36134333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:37.0</time>
+		<name>5547</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06300333" lon="-118.36132667">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:38.0</time>
+		<name>5605</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06300333" lon="-118.36132667">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:38.0</time>
+		<name>5233</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06295500" lon="-118.36129500">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:39.0</time>
+		<name>5257</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06293000" lon="-118.36123000">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:40.0</time>
+		<name>4742</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06290667" lon="-118.36116500">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:41.0</time>
+		<name>4625</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06290167" lon="-118.36108333">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:42.0</time>
+		<name>4906</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06289333" lon="-118.36098500">
+		<ele>48.90</ele>
+		<time>9/26/2014T5:22:43.0</time>
+		<name>5068</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06288500" lon="-118.36088833">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:44.0</time>
+		<name>4814</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06288500" lon="-118.36088833">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:44.0</time>
+		<name>4906</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06287000" lon="-118.36077333">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:45.0</time>
+		<name>4721</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06285667" lon="-118.36067667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:46.0</time>
+		<name>4684</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06284500" lon="-118.36056167">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:47.0</time>
+		<name>5226</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06282833" lon="-118.36044833">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:48.0</time>
+		<name>6296</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06281167" lon="-118.36031833">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:49.0</time>
+		<name>6201</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06279667" lon="-118.36020500">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:50.0</time>
+		<name>6425</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06277667" lon="-118.36009000">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:51.0</time>
+		<name>6036</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06275167" lon="-118.35996000">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:22:52.0</time>
+		<name>5173</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06273167" lon="-118.35986167">
+		<ele>50.30</ele>
+		<time>9/26/2014T5:22:53.0</time>
+		<name>5173</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06273167" lon="-118.35986167">
+		<ele>50.30</ele>
+		<time>9/26/2014T5:22:53.0</time>
+		<name>5330</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06272333" lon="-118.35976500">
+		<ele>50.30</ele>
+		<time>9/26/2014T5:22:54.0</time>
+		<name>5803</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06271000" lon="-118.35970000">
+		<ele>50.30</ele>
+		<time>9/26/2014T5:22:55.0</time>
+		<name>5490</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06271000" lon="-118.35965167">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:22:56.0</time>
+		<name>5726</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06271000" lon="-118.35965167">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:22:56.0</time>
+		<name>4839</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06270333" lon="-118.35961833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:22:57.0</time>
+		<name>4587</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06270333" lon="-118.35958500">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:22:58.0</time>
+		<name>4281</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06270333" lon="-118.35957000">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:22:59.0</time>
+		<name>4164</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06269833" lon="-118.35953667">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:23:0.0</time>
+		<name>4481</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06269500" lon="-118.35948833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:23:1.0</time>
+		<name>4795</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06268667" lon="-118.35944000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:2.0</time>
+		<name>5159</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06268667" lon="-118.35944000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:2.0</time>
+		<name>5789</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06268167" lon="-118.35937500">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:3.0</time>
+		<name>5695</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06267333" lon="-118.35929333">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:4.0</time>
+		<name>4747</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06266667" lon="-118.35921167">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:5.0</time>
+		<name>3919</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06266667" lon="-118.35921167">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:5.0</time>
+		<name>4092</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06265333" lon="-118.35911333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:6.0</time>
+		<name>4829</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06264500" lon="-118.35900000">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:7.0</time>
+		<name>6295</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06263333" lon="-118.35890167">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:8.0</time>
+		<name>5457</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06262167" lon="-118.35878833">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:9.0</time>
+		<name>5274</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06260500" lon="-118.35865833">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:10.0</time>
+		<name>5127</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06259333" lon="-118.35854333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:11.0</time>
+		<name>4398</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06257667" lon="-118.35841333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:12.0</time>
+		<name>5210</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06256500" lon="-118.35828333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:13.0</time>
+		<name>4186</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06255167" lon="-118.35815333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:14.0</time>
+		<name>3781</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06253500" lon="-118.35804000">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:15.0</time>
+		<name>4646</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06252833" lon="-118.35789333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:16.0</time>
+		<name>4310</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06251167" lon="-118.35776333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:17.0</time>
+		<name>4715</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06250000" lon="-118.35763333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:18.0</time>
+		<name>4022</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06248333" lon="-118.35750167">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:23:19.0</time>
+		<name>5622</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06246667" lon="-118.35735667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:20.0</time>
+		<name>5920</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06246667" lon="-118.35735667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:20.0</time>
+		<name>5164</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06245500" lon="-118.35722500">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:21.0</time>
+		<name>4960</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06244167" lon="-118.35709500">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:22.0</time>
+		<name>4041</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06243333" lon="-118.35694833">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:23.0</time>
+		<name>5164</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06242667" lon="-118.35681833">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:24.0</time>
+		<name>4750</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06242667" lon="-118.35668833">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:25.0</time>
+		<name>6144</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06242167" lon="-118.35655833">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:26.0</time>
+		<name>4921</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06241833" lon="-118.35641167">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:27.0</time>
+		<name>6971</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06241833" lon="-118.35628167">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:28.0</time>
+		<name>5622</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06241333" lon="-118.35615167">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:29.0</time>
+		<name>5772</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06241000" lon="-118.35602167">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:30.0</time>
+		<name>5189</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06241000" lon="-118.35590667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:31.0</time>
+		<name>5117</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06240500" lon="-118.35577667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:32.0</time>
+		<name>4114</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06240500" lon="-118.35566333">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:33.0</time>
+		<name>4594</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06241000" lon="-118.35555000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:34.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06240167" lon="-118.35543500">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:35.0</time>
+		<name>4518</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06239667" lon="-118.35533833">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:36.0</time>
+		<name>5145</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06239000" lon="-118.35525667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:37.0</time>
+		<name>5721</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238500" lon="-118.35519167">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:38.0</time>
+		<name>4906</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238500" lon="-118.35515833">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:23:39.0</time>
+		<name>4517</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238500" lon="-118.35512667">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:40.0</time>
+		<name>4233</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238500" lon="-118.35512667">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:40.0</time>
+		<name>4233</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238167" lon="-118.35507667">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:41.0</time>
+		<name>5090</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238167" lon="-118.35502833">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:42.0</time>
+		<name>5867</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238167" lon="-118.35494667">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:43.0</time>
+		<name>7191</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06238167" lon="-118.35486500">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:44.0</time>
+		<name>4912</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06237333" lon="-118.35476833">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:45.0</time>
+		<name>3902</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06236833" lon="-118.35465333">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:46.0</time>
+		<name>4632</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06236833" lon="-118.35465333">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:46.0</time>
+		<name>4836</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06236833" lon="-118.35454000">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:47.0</time>
+		<name>4618</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06236000" lon="-118.35442667">
+		<ele>52.00</ele>
+		<time>9/26/2014T5:23:48.0</time>
+		<name>1650</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06235333" lon="-118.35429667">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:49.0</time>
+		<name>2153</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06235333" lon="-118.35429667">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:49.0</time>
+		<name>4294</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06234833" lon="-118.35418167">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:50.0</time>
+		<name>5258</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06234000" lon="-118.35405167">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:51.0</time>
+		<name>4515</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06233167" lon="-118.35392167">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:52.0</time>
+		<name>4921</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06232833" lon="-118.35379167">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:53.0</time>
+		<name>5065</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06232500" lon="-118.35364500">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:54.0</time>
+		<name>3676</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06232000" lon="-118.35351500">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:55.0</time>
+		<name>3847</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06231667" lon="-118.35338500">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:56.0</time>
+		<name>5344</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06231167" lon="-118.35325500">
+		<ele>51.50</ele>
+		<time>9/26/2014T5:23:57.0</time>
+		<name>3859</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230333" lon="-118.35310833">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:23:58.0</time>
+		<name>3830</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230333" lon="-118.35310833">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:23:58.0</time>
+		<name>4620</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230333" lon="-118.35297833">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:23:59.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230000" lon="-118.35284667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:0.0</time>
+		<name>4526</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230000" lon="-118.35271667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:1.0</time>
+		<name>4378</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06229167" lon="-118.35258667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:2.0</time>
+		<name>6082</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06229167" lon="-118.35245667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:3.0</time>
+		<name>4020</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230000" lon="-118.35232667">
+		<ele>49.60</ele>
+		<time>9/26/2014T5:24:4.0</time>
+		<name>3972</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230000" lon="-118.35232667">
+		<ele>49.60</ele>
+		<time>9/26/2014T5:24:4.0</time>
+		<name>4326</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230833" lon="-118.35219667">
+		<ele>49.60</ele>
+		<time>9/26/2014T5:24:5.0</time>
+		<name>5065</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06231167" lon="-118.35206667">
+		<ele>49.60</ele>
+		<time>9/26/2014T5:24:6.0</time>
+		<name>4258</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06231167" lon="-118.35193667">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:7.0</time>
+		<name>4378</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06231167" lon="-118.35193667">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:7.0</time>
+		<name>4959</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230833" lon="-118.35180500">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:8.0</time>
+		<name>5721</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230333" lon="-118.35167500">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:9.0</time>
+		<name>4602</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230000" lon="-118.35154500">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:10.0</time>
+		<name>4744</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06230000" lon="-118.35143167">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:11.0</time>
+		<name>5832</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06229500" lon="-118.35130167">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:12.0</time>
+		<name>4994</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06229167" lon="-118.35118667">
+		<ele>50.50</ele>
+		<time>9/26/2014T5:24:13.0</time>
+		<name>4250</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06229167" lon="-118.35118667">
+		<ele>50.50</ele>
+		<time>9/26/2014T5:24:13.0</time>
+		<name>4441</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228833" lon="-118.35105667">
+		<ele>50.50</ele>
+		<time>9/26/2014T5:24:14.0</time>
+		<name>5065</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228833" lon="-118.35092667">
+		<ele>50.50</ele>
+		<time>9/26/2014T5:24:15.0</time>
+		<name>5038</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228333" lon="-118.35081333">
+		<ele>50.90</ele>
+		<time>9/26/2014T5:24:16.0</time>
+		<name>4797</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228333" lon="-118.35081333">
+		<ele>50.90</ele>
+		<time>9/26/2014T5:24:16.0</time>
+		<name>4645</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228333" lon="-118.35068333">
+		<ele>50.90</ele>
+		<time>9/26/2014T5:24:17.0</time>
+		<name>4531</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228000" lon="-118.35056833">
+		<ele>50.90</ele>
+		<time>9/26/2014T5:24:18.0</time>
+		<name>4690</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228000" lon="-118.35045500">
+		<ele>51.70</ele>
+		<time>9/26/2014T5:24:19.0</time>
+		<name>5085</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228000" lon="-118.35045500">
+		<ele>51.70</ele>
+		<time>9/26/2014T5:24:19.0</time>
+		<name>4181</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06228000" lon="-118.35032500">
+		<ele>51.70</ele>
+		<time>9/26/2014T5:24:20.0</time>
+		<name>4482</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06227167" lon="-118.35021000">
+		<ele>51.70</ele>
+		<time>9/26/2014T5:24:21.0</time>
+		<name>5288</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226667" lon="-118.35009667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:22.0</time>
+		<name>5772</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226667" lon="-118.35009667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:22.0</time>
+		<name>5216</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226667" lon="-118.35000000">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:23.0</time>
+		<name>4578</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226667" lon="-118.34990167">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:24.0</time>
+		<name>4859</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226333" lon="-118.34980333">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:25.0</time>
+		<name>4960</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226333" lon="-118.34970667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:26.0</time>
+		<name>5145</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226333" lon="-118.34959167">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:27.0</time>
+		<name>4658</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226333" lon="-118.34949500">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:28.0</time>
+		<name>3936</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06225167" lon="-118.34939667">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:29.0</time>
+		<name>5502</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06224333" lon="-118.34930000">
+		<ele>50.70</ele>
+		<time>9/26/2014T5:24:30.0</time>
+		<name>4903</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223833" lon="-118.34921833">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:31.0</time>
+		<name>4623</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223833" lon="-118.34921833">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:31.0</time>
+		<name>4943</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223833" lon="-118.34912000">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:32.0</time>
+		<name>5388</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223500" lon="-118.34905500">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:33.0</time>
+		<name>5668</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223500" lon="-118.34899000">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:34.0</time>
+		<name>5537</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223500" lon="-118.34894167">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:35.0</time>
+		<name>5311</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223500" lon="-118.34892500">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:36.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223500" lon="-118.34890833">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:37.0</time>
+		<name>5112</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223000" lon="-118.34890833">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:38.0</time>
+		<name>4656</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223000" lon="-118.34889167">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:39.0</time>
+		<name>4721</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223000" lon="-118.34887667">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:40.0</time>
+		<name>4577</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06223000" lon="-118.34886000">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:41.0</time>
+		<name>4166</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34882667">
+		<ele>50.40</ele>
+		<time>9/26/2014T5:24:42.0</time>
+		<name>3942</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34879500">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:43.0</time>
+		<name>3979</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34879500">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:43.0</time>
+		<name>4257</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34876167">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:44.0</time>
+		<name>4614</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34873000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:45.0</time>
+		<name>4742</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34873000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:46.0</time>
+		<name>5382</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222667" lon="-118.34871333">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:47.0</time>
+		<name>5451</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34873000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:48.0</time>
+		<name>5382</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221500" lon="-118.34871333">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:49.0</time>
+		<name>5507</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34869667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:50.0</time>
+		<name>5507</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34869667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:51.0</time>
+		<name>5479</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34869667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:52.0</time>
+		<name>5537</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34869667">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:53.0</time>
+		<name>5832</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34868000">
+		<ele>49.50</ele>
+		<time>9/26/2014T5:24:54.0</time>
+		<name>5832</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34864833">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:24:55.0</time>
+		<name>5537</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06222167" lon="-118.34864833">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:24:55.0</time>
+		<name>5832</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221833" lon="-118.34861500">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:24:56.0</time>
+		<name>5353</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221833" lon="-118.34856667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:24:57.0</time>
+		<name>4982</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221500" lon="-118.34850167">
+		<ele>48.50</ele>
+		<time>9/26/2014T5:24:58.0</time>
+		<name>4730</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221500" lon="-118.34850167">
+		<ele>48.50</ele>
+		<time>9/26/2014T5:24:58.0</time>
+		<name>4127</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221500" lon="-118.34842000">
+		<ele>48.50</ele>
+		<time>9/26/2014T5:24:59.0</time>
+		<name>3919</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221000" lon="-118.34833833">
+		<ele>48.50</ele>
+		<time>9/26/2014T5:25:0.0</time>
+		<name>4229</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221000" lon="-118.34825833">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:1.0</time>
+		<name>5164</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221000" lon="-118.34825833">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:1.0</time>
+		<name>4871</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06221000" lon="-118.34817667">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:2.0</time>
+		<name>4463</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34807833">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:3.0</time>
+		<name>4753</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34798167">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:4.0</time>
+		<name>5065</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220167" lon="-118.34788333">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:5.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220167" lon="-118.34778500">
+		<ele>48.70</ele>
+		<time>9/26/2014T5:25:6.0</time>
+		<name>5487</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219833" lon="-118.34770500">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:25:7.0</time>
+		<name>4744</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219833" lon="-118.34770500">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:25:7.0</time>
+		<name>4725</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219333" lon="-118.34760667">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:25:8.0</time>
+		<name>5274</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219333" lon="-118.34752500">
+		<ele>49.00</ele>
+		<time>9/26/2014T5:25:9.0</time>
+		<name>5931</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218667" lon="-118.34744333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:10.0</time>
+		<name>5487</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218667" lon="-118.34744333">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:10.0</time>
+		<name>5410</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218167" lon="-118.34737833">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:11.0</time>
+		<name>5067</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217833" lon="-118.34729667">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:12.0</time>
+		<name>4574</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217833" lon="-118.34723167">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:13.0</time>
+		<name>4599</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217333" lon="-118.34715167">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:14.0</time>
+		<name>5580</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217333" lon="-118.34707000">
+		<ele>49.20</ele>
+		<time>9/26/2014T5:25:15.0</time>
+		<name>5416</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217000" lon="-118.34698833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:16.0</time>
+		<name>4979</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217000" lon="-118.34698833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:16.0</time>
+		<name>5180</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34690667">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:17.0</time>
+		<name>5813</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34682500">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:18.0</time>
+		<name>5868</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34676000">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:19.0</time>
+		<name>5229</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34667833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:20.0</time>
+		<name>4427</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34663000">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:21.0</time>
+		<name>4650</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34658167">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:22.0</time>
+		<name>5758</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34654833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:23.0</time>
+		<name>5909</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34653167">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:24.0</time>
+		<name>5823</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34651667">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:25.0</time>
+		<name>6055</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34650000">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:26.0</time>
+		<name>6956</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:27.0</time>
+		<name>6386</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:28.0</time>
+		<name>6767</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:29.0</time>
+		<name>6443</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:30.0</time>
+		<name>6386</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:31.0</time>
+		<name>6901</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:32.0</time>
+		<name>6649</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:33.0</time>
+		<name>7008</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:34.0</time>
+		<name>6585</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:35.0</time>
+		<name>6650</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217833" lon="-118.34648333">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:36.0</time>
+		<name>6478</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217833" lon="-118.34646667">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:37.0</time>
+		<name>5558</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219000" lon="-118.34645167">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:38.0</time>
+		<name>5393</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220167" lon="-118.34641833">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:39.0</time>
+		<name>5012</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34638667">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:40.0</time>
+		<name>4639</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34633667">
+		<ele>48.60</ele>
+		<time>9/26/2014T5:25:41.0</time>
+		<name>4577</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220167" lon="-118.34627167">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:42.0</time>
+		<name>4571</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220167" lon="-118.34627167">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:42.0</time>
+		<name>4871</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220167" lon="-118.34622333">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:43.0</time>
+		<name>5161</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219833" lon="-118.34615833">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:44.0</time>
+		<name>5417</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06219000" lon="-118.34607667">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:45.0</time>
+		<name>4677</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218667" lon="-118.34601167">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:46.0</time>
+		<name>5009</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218667" lon="-118.34593000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:47.0</time>
+		<name>5550</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218667" lon="-118.34584833">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:48.0</time>
+		<name>6457</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06218167" lon="-118.34576667">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:49.0</time>
+		<name>8403</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217833" lon="-118.34570167">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:50.0</time>
+		<name>6976</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217333" lon="-118.34563667">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:51.0</time>
+		<name>5226</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34557167">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:52.0</time>
+		<name>6454</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34552333">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:53.0</time>
+		<name>6280</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34547500">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:54.0</time>
+		<name>6655</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34545833">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:55.0</time>
+		<name>5971</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34542500">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:56.0</time>
+		<name>5774</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34541000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:57.0</time>
+		<name>5892</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34539333">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:58.0</time>
+		<name>5717</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34537667">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:25:59.0</time>
+		<name>5819</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34537667">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:0.0</time>
+		<name>5411</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:1.0</time>
+		<name>5282</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:2.0</time>
+		<name>5307</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:3.0</time>
+		<name>5256</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:4.0</time>
+		<name>5256</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:5.0</time>
+		<name>5295</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:6.0</time>
+		<name>5400</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:7.0</time>
+		<name>5269</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:8.0</time>
+		<name>5148</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34536000">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:9.0</time>
+		<name>4983</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>52.90</ele>
+		<time>9/26/2014T5:26:10.0</time>
+		<name>5045</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:11.0</time>
+		<name>4983</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:11.0</time>
+		<name>4983</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:12.0</time>
+		<name>4983</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:13.0</time>
+		<name>4983</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:14.0</time>
+		<name>4983</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:14.0</time>
+		<name>4949</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:15.0</time>
+		<name>4932</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:16.0</time>
+		<name>4900</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:17.0</time>
+		<name>4932</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:17.0</time>
+		<name>4807</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:18.0</time>
+		<name>4840</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:19.0</time>
+		<name>4812</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34534500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:20.0</time>
+		<name>4867</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:21.0</time>
+		<name>5064</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:22.0</time>
+		<name>4827</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:23.0</time>
+		<name>4486</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:23.0</time>
+		<name>4430</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:24.0</time>
+		<name>4394</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:25.0</time>
+		<name>4370</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:26.0</time>
+		<name>4370</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:27.0</time>
+		<name>4394</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:28.0</time>
+		<name>4394</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:29.0</time>
+		<name>4370</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:30.0</time>
+		<name>4279</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:31.0</time>
+		<name>4279</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:32.0</time>
+		<name>4279</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:32.0</time>
+		<name>4231</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:33.0</time>
+		<name>4231</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:34.0</time>
+		<name>4231</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34532833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:35.0</time>
+		<name>4261</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34529500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:36.0</time>
+		<name>4748</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34524667">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:37.0</time>
+		<name>5086</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34518167">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:38.0</time>
+		<name>5357</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34511667">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:39.0</time>
+		<name>5127</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217333" lon="-118.34503500">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:40.0</time>
+		<name>4421</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217333" lon="-118.34497000">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:41.0</time>
+		<name>4401</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217333" lon="-118.34488833">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:42.0</time>
+		<name>5464</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06217000" lon="-118.34480667">
+		<ele>54.50</ele>
+		<time>9/26/2014T5:26:43.0</time>
+		<name>5809</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34472500">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:26:44.0</time>
+		<name>5189</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34472500">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:26:44.0</time>
+		<name>4972</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34464500">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:26:45.0</time>
+		<name>5161</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34456333">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:26:46.0</time>
+		<name>5197</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34448167">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:47.0</time>
+		<name>5729</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34448167">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:47.0</time>
+		<name>5581</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34441667">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:48.0</time>
+		<name>5549</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34433500">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:49.0</time>
+		<name>5118</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34425333">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:50.0</time>
+		<name>5033</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34418833">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:51.0</time>
+		<name>5337</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34412333">
+		<ele>54.60</ele>
+		<time>9/26/2014T5:26:52.0</time>
+		<name>5477</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215333" lon="-118.34405833">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:53.0</time>
+		<name>5567</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215333" lon="-118.34405833">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:53.0</time>
+		<name>5580</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215333" lon="-118.34399333">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:54.0</time>
+		<name>5318</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215333" lon="-118.34392833">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:55.0</time>
+		<name>5098</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215000" lon="-118.34386333">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:56.0</time>
+		<name>3957</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215000" lon="-118.34376500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:57.0</time>
+		<name>3420</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215000" lon="-118.34370000">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:58.0</time>
+		<name>4108</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34363500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:26:59.0</time>
+		<name>4930</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216167" lon="-118.34358667">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:27:0.0</time>
+		<name>4892</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06216500" lon="-118.34350500">
+		<ele>54.80</ele>
+		<time>9/26/2014T5:27:1.0</time>
+		<name>4726</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34344000">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:2.0</time>
+		<name>4860</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215667" lon="-118.34344000">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:2.0</time>
+		<name>5139</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06214500" lon="-118.34335833">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:3.0</time>
+		<name>5236</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215000" lon="-118.34327667">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:4.0</time>
+		<name>5593</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06214167" lon="-118.34321167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:5.0</time>
+		<name>5134</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06213667" lon="-118.34314667">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:6.0</time>
+		<name>4830</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06212833" lon="-118.34309833">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:7.0</time>
+		<name>5004</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06210833" lon="-118.34303333">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:8.0</time>
+		<name>5531</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06208333" lon="-118.34298500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:9.0</time>
+		<name>5931</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06206000" lon="-118.34295167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:10.0</time>
+		<name>5544</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06203500" lon="-118.34295167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:11.0</time>
+		<name>5067</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06201167" lon="-118.34293500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:12.0</time>
+		<name>5202</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06197833" lon="-118.34293500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:13.0</time>
+		<name>5494</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06195000" lon="-118.34295167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:14.0</time>
+		<name>5622</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06191667" lon="-118.34293500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:15.0</time>
+		<name>6007</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06187667" lon="-118.34293500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:16.0</time>
+		<name>6016</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06183167" lon="-118.34293500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:17.0</time>
+		<name>6277</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06177833" lon="-118.34293500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:18.0</time>
+		<name>5961</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06173000" lon="-118.34295167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:19.0</time>
+		<name>5871</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06169000" lon="-118.34295167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:20.0</time>
+		<name>5816</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06164000" lon="-118.34296833">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:21.0</time>
+		<name>5843</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06158333" lon="-118.34298500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:22.0</time>
+		<name>5683</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06152333" lon="-118.34301667">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:23.0</time>
+		<name>4696</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06145833" lon="-118.34303333">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:24.0</time>
+		<name>5931</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06139167" lon="-118.34308167">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:25.0</time>
+		<name>5054</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06132333" lon="-118.34311500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:26.0</time>
+		<name>5447</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06125833" lon="-118.34316333">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:27.0</time>
+		<name>5012</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06119333" lon="-118.34319500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:28.0</time>
+		<name>4405</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06112000" lon="-118.34324500">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:29.0</time>
+		<name>5703</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06105000" lon="-118.34327667">
+		<ele>57.40</ele>
+		<time>9/26/2014T5:27:30.0</time>
+		<name>5361</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06098167" lon="-118.34331000">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:31.0</time>
+		<name>4802</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06098167" lon="-118.34331000">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:31.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06090333" lon="-118.34334167">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:32.0</time>
+		<name>4902</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06083500" lon="-118.34337500">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:33.0</time>
+		<name>4665</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06076167" lon="-118.34340667">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:34.0</time>
+		<name>5038</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06070000" lon="-118.34344000">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:35.0</time>
+		<name>4938</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06062333" lon="-118.34345667">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:36.0</time>
+		<name>4587</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06058333" lon="-118.34348833">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:37.0</time>
+		<name>5054</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06058333" lon="-118.34348833">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:37.0</time>
+		<name>5357</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06055000" lon="-118.34350500">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:38.0</time>
+		<name>5447</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34352167">
+		<ele>65.10</ele>
+		<time>9/26/2014T5:27:39.0</time>
+		<name>5447</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34353833">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:40.0</time>
+		<name>4967</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34353833">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:40.0</time>
+		<name>5622</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34355333">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:41.0</time>
+		<name>5507</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051333" lon="-118.34355333">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:42.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051333" lon="-118.34358667">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:43.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050167" lon="-118.34363500">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:44.0</time>
+		<name>6457</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34370000">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:45.0</time>
+		<name>5065</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34376500">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:46.0</time>
+		<name>4845</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34384667">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:47.0</time>
+		<name>4902</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34392833">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:27:48.0</time>
+		<name>4797</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34402667">
+		<ele>61.10</ele>
+		<time>9/26/2014T5:27:49.0</time>
+		<name>6457</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34402667">
+		<ele>61.10</ele>
+		<time>9/26/2014T5:27:49.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34410667">
+		<ele>61.10</ele>
+		<time>9/26/2014T5:27:50.0</time>
+		<name>4860</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34418833">
+		<ele>61.10</ele>
+		<time>9/26/2014T5:27:51.0</time>
+		<name>4772</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34427000">
+		<ele>59.60</ele>
+		<time>9/26/2014T5:27:52.0</time>
+		<name>5183</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34427000">
+		<ele>59.60</ele>
+		<time>9/26/2014T5:27:52.0</time>
+		<name>5438</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34433500">
+		<ele>59.60</ele>
+		<time>9/26/2014T5:27:53.0</time>
+		<name>5196</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053000" lon="-118.34438333">
+		<ele>59.60</ele>
+		<time>9/26/2014T5:27:54.0</time>
+		<name>5521</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34441667">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:27:55.0</time>
+		<name>4978</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34441667">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:27:55.0</time>
+		<name>4663</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34444833">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:27:56.0</time>
+		<name>5027</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:27:57.0</time>
+		<name>5320</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:27:58.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:27:59.0</time>
+		<name>5114</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:0.0</time>
+		<name>5027</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:1.0</time>
+		<name>5385</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:1.0</time>
+		<name>5320</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:2.0</time>
+		<name>5385</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:3.0</time>
+		<name>5090</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:4.0</time>
+		<name>5385</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:5.0</time>
+		<name>5027</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:6.0</time>
+		<name>5177</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:7.0</time>
+		<name>5177</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:8.0</time>
+		<name>5238</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:28:9.0</time>
+		<name>5320</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:10.0</time>
+		<name>5114</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:10.0</time>
+		<name>5253</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34446500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:11.0</time>
+		<name>5328</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34449833">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:12.0</time>
+		<name>5396</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34453000">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:13.0</time>
+		<name>6082</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34459500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:14.0</time>
+		<name>5877</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34464500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:15.0</time>
+		<name>5759</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34472500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:16.0</time>
+		<name>5691</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050167" lon="-118.34480667">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:17.0</time>
+		<name>4960</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06049333" lon="-118.34490500">
+		<ele>58.10</ele>
+		<time>9/26/2014T5:28:18.0</time>
+		<name>4825</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06048833" lon="-118.34501833">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:19.0</time>
+		<name>4967</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06048833" lon="-118.34501833">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:19.0</time>
+		<name>5289</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06048833" lon="-118.34511667">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:20.0</time>
+		<name>5299</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06049333" lon="-118.34523000">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:21.0</time>
+		<name>5142</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06049667" lon="-118.34534500">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:22.0</time>
+		<name>3942</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050167" lon="-118.34545833">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:23.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34557167">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:24.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051333" lon="-118.34570167">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:25.0</time>
+		<name>5127</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051333" lon="-118.34570167">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:25.0</time>
+		<name>5183</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06052500" lon="-118.34583333">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:26.0</time>
+		<name>5494</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34596333">
+		<ele>55.60</ele>
+		<time>9/26/2014T5:28:27.0</time>
+		<name>5140</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053833" lon="-118.34609333">
+		<ele>58.40</ele>
+		<time>9/26/2014T5:28:28.0</time>
+		<name>5049</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053833" lon="-118.34609333">
+		<ele>58.40</ele>
+		<time>9/26/2014T5:28:28.0</time>
+		<name>4725</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054167" lon="-118.34622333">
+		<ele>58.40</ele>
+		<time>9/26/2014T5:28:29.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054667" lon="-118.34635333">
+		<ele>58.40</ele>
+		<time>9/26/2014T5:28:30.0</time>
+		<name>5365</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053833" lon="-118.34645167">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:31.0</time>
+		<name>4956</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053833" lon="-118.34645167">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:31.0</time>
+		<name>4902</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34658167">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:32.0</time>
+		<name>3942</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34669500">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:33.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053000" lon="-118.34682500">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:34.0</time>
+		<name>4220</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06052167" lon="-118.34695500">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:35.0</time>
+		<name>5099</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051833" lon="-118.34707000">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:36.0</time>
+		<name>5396</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34718333">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:37.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050167" lon="-118.34729667">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:38.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06050500" lon="-118.34741167">
+		<ele>65.50</ele>
+		<time>9/26/2014T5:28:39.0</time>
+		<name>4956</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34754167">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:40.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06051000" lon="-118.34754167">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:40.0</time>
+		<name>6219</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06052167" lon="-118.34765500">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:41.0</time>
+		<name>5251</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053000" lon="-118.34778500">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:42.0</time>
+		<name>5315</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053000" lon="-118.34793167">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:43.0</time>
+		<name>5012</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053000" lon="-118.34804667">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:44.0</time>
+		<name>4685</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053000" lon="-118.34817667">
+		<ele>72.80</ele>
+		<time>9/26/2014T5:28:45.0</time>
+		<name>5931</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34830667">
+		<ele>71.20</ele>
+		<time>9/26/2014T5:28:46.0</time>
+		<name>5438</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053333" lon="-118.34830667">
+		<ele>71.20</ele>
+		<time>9/26/2014T5:28:46.0</time>
+		<name>5177</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06053833" lon="-118.34842000">
+		<ele>71.20</ele>
+		<time>9/26/2014T5:28:47.0</time>
+		<name>4967</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054667" lon="-118.34853500">
+		<ele>71.20</ele>
+		<time>9/26/2014T5:28:48.0</time>
+		<name>3942</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054667" lon="-118.34863167">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:49.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054667" lon="-118.34863167">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:49.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054167" lon="-118.34868000">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:50.0</time>
+		<name>3242</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06054667" lon="-118.34871333">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:51.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06057000" lon="-118.34876167">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:52.0</time>
+		<name>5127</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06059833" lon="-118.34879500">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:53.0</time>
+		<name>5763</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06064333" lon="-118.34881167">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:54.0</time>
+		<name>5183</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06069333" lon="-118.34881167">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:55.0</time>
+		<name>5410</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06075000" lon="-118.34879500">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:56.0</time>
+		<name>4797</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06082333" lon="-118.34877833">
+		<ele>68.60</ele>
+		<time>9/26/2014T5:28:57.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06090333" lon="-118.34877833">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:28:58.0</time>
+		<name>5127</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06090333" lon="-118.34877833">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:28:58.0</time>
+		<name>6219</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06100167" lon="-118.34876167">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:28:59.0</time>
+		<name>4797</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06110833" lon="-118.34876167">
+		<ele>54.70</ele>
+		<time>9/26/2014T5:29:0.0</time>
+		<name>4938</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06117333" lon="-118.34873000">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:1.0</time>
+		<name>5183</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06117333" lon="-118.34873000">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:1.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06124167" lon="-118.34869667">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:2.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06132667" lon="-118.34866500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:3.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06140000" lon="-118.34864833">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:4.0</time>
+		<name>5438</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06147000" lon="-118.34861500">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:5.0</time>
+		<name>5931</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06153833" lon="-118.34860000">
+		<ele>58.20</ele>
+		<time>9/26/2014T5:29:6.0</time>
+		<name>6219</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06160000" lon="-118.34858333">
+		<ele>64.10</ele>
+		<time>9/26/2014T5:29:7.0</time>
+		<name>4508</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06160000" lon="-118.34858333">
+		<ele>64.10</ele>
+		<time>9/26/2014T5:29:7.0</time>
+		<name>5883</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06165333" lon="-118.34858333">
+		<ele>64.10</ele>
+		<time>9/26/2014T5:29:8.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06169833" lon="-118.34855000">
+		<ele>64.10</ele>
+		<time>9/26/2014T5:29:9.0</time>
+		<name>6144</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06172667" lon="-118.34855000">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:10.0</time>
+		<name>5164</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06172667" lon="-118.34855000">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:10.0</time>
+		<name>5721</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06174167" lon="-118.34851833">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:11.0</time>
+		<name>5353</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06175000" lon="-118.34850167">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:12.0</time>
+		<name>5544</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06175833" lon="-118.34847000">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:13.0</time>
+		<name>5681</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06177500" lon="-118.34847000">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:14.0</time>
+		<name>5596</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06178667" lon="-118.34847000">
+		<ele>66.80</ele>
+		<time>9/26/2014T5:29:15.0</time>
+		<name>5396</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06180000" lon="-118.34845333">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:16.0</time>
+		<name>5798</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06180000" lon="-118.34845333">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:16.0</time>
+		<name>6009</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06180667" lon="-118.34845333">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:17.0</time>
+		<name>5360</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06182333" lon="-118.34843667">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:18.0</time>
+		<name>5274</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06184333" lon="-118.34843667">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:19.0</time>
+		<name>5931</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06187333" lon="-118.34842000">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:20.0</time>
+		<name>5576</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06189667" lon="-118.34838833">
+		<ele>61.80</ele>
+		<time>9/26/2014T5:29:21.0</time>
+		<name>6219</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06193333" lon="-118.34838833">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:22.0</time>
+		<name>4967</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06193333" lon="-118.34838833">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:22.0</time>
+		<name>8890</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06197000" lon="-118.34838833">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:23.0</time>
+		<name>4508</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06200333" lon="-118.34837167">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:24.0</time>
+		<name>4508</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06204000" lon="-118.34837167">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:25.0</time>
+		<name>6219</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06209167" lon="-118.34837167">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:26.0</time>
+		<name>6219</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06215000" lon="-118.34835500">
+		<ele>60.30</ele>
+		<time>9/26/2014T5:29:27.0</time>
+		<name>5444</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34833833">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:28.0</time>
+		<name>5501</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06220667" lon="-118.34833833">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:28.0</time>
+		<name>5358</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06226667" lon="-118.34833833">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:29.0</time>
+		<name>5164</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06233167" lon="-118.34832333">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:30.0</time>
+		<name>5196</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06239333" lon="-118.34833833">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:31.0</time>
+		<name>5282</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06245500" lon="-118.34833833">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:32.0</time>
+		<name>5251</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06250667" lon="-118.34833833">
+		<ele>67.10</ele>
+		<time>9/26/2014T5:29:33.0</time>
+		<name>5242</name>
+		<sym>Dot</sym>
+		<sat>8</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06256500" lon="-118.34833833">
+		<ele>76.70</ele>
+		<time>9/26/2014T5:29:34.0</time>
+		<name>5145</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06256500" lon="-118.34833833">
+		<ele>76.70</ele>
+		<time>9/26/2014T5:29:34.0</time>
+		<name>5587</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06261667" lon="-118.34833833">
+		<ele>76.70</ele>
+		<time>9/26/2014T5:29:35.0</time>
+		<name>5440</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06266167" lon="-118.34833833">
+		<ele>76.70</ele>
+		<time>9/26/2014T5:29:36.0</time>
+		<name>5477</name>
+		<sym>Dot</sym>
+		<sat>9</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06271500" lon="-118.34833833">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:37.0</time>
+		<name>5808</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06271500" lon="-118.34833833">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:37.0</time>
+		<name>6305</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06276333" lon="-118.34832333">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:38.0</time>
+		<name>6511</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06280500" lon="-118.34832333">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:39.0</time>
+		<name>6456</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06280500" lon="-118.34832333">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:40.0</time>
+		<name>6455</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06283667" lon="-118.34829000">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:41.0</time>
+		<name>6070</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06284500" lon="-118.34827333">
+		<ele>81.90</ele>
+		<time>9/26/2014T5:29:42.0</time>
+		<name>6062</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06286167" lon="-118.34824167">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:43.0</time>
+		<name>5895</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06286167" lon="-118.34824167">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:43.0</time>
+		<name>6027</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06287333" lon="-118.34820833">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:44.0</time>
+		<name>6825</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06286167" lon="-118.34817667">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:45.0</time>
+		<name>6813</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06285333" lon="-118.34814333">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:46.0</time>
+		<name>7120</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06287000" lon="-118.34812667">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:47.0</time>
+		<name>7866</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+	<wpt lat="34.06289333" lon="-118.34809500">
+		<ele>77.00</ele>
+		<time>9/26/2014T5:29:48.0</time>
+		<name>7610</name>
+		<sym>Dot</sym>
+		<sat>10</sat>
+		<fix>dgps</fix>
+		<src>Arduino Mega with GPS sheild</sat>
+	</wpt>
+</gpx>
+</xml>
