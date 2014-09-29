@@ -101,6 +101,9 @@ for csvFile in csvFiles:
 
     xmlData.write('</gpx>' + '\n')
     xmlData.close()
+    print ('writing '+csvFile+' to '+ xmlFile +'\n')
+
+print ('finished writing '+str(len(csvFiles))+' .gpx Files\n')
 
 
 
