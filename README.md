@@ -6,7 +6,7 @@ Using color sensors and gps coordinates to map the color of light at night in Lo
 
 #### Dependencies:
 
-(this doc assumes you have recent versions of bower and python on your computer)
+*this doc assumes you have recent versions of bower and python on your computer*
 
 Run ``bower install`` to automatically load dependencies.
 
@@ -38,6 +38,7 @@ Dependencies:
 - https://github.com/adafruit/Adafruit-GPS-Library
 - https://github.com/adafruit/SD
 
+</br>
 ##csvtogpx
 
 I wrote a python script that converts a directory of .csv log files to .gpx waypoint coordinates that can be mapped in other programs.
