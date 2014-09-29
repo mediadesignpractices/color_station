@@ -39,7 +39,6 @@ Dependencies:
 - https://github.com/adafruit/SD
 
 ##csvtogpx
----
 
 I wrote a python script that converts a directory of .csv log files to .gpx waypoint coordinates that can be mapped in other programs.
 
