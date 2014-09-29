@@ -92,6 +92,7 @@ for csvFile in csvFiles:
             xmlData.write('\t\t'+'<time>'+row[1]+'T'+row[0]+'</time>'+'\n')
             xmlData.write('\t\t'+'<name>'+row[10]+'</name>'+'\n')
             xmlData.write('\t\t'+'<sym>Dot</sym>'+'\n')
+            xmlData.write('\t\t'+'<type>waypoint</type>'+'\n')
             xmlData.write('\t\t'+'<sat>'+row[9]+'</sat>'+'\n')
             xmlData.write('\t\t'+'<fix>'+fix(row[8], row[9])+'</fix>'+'\n')
             xmlData.write('\t\t'+'<src>Arduino Mega with GPS sheild</src>'+'\n')
@@ -100,7 +101,6 @@ for csvFile in csvFiles:
         rowNum +=1
 
     xmlData.write('</gpx>' + '\n')
-    xmlData.write('</xml>' + '\n')
     xmlData.close()
 
 
