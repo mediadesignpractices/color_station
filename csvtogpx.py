@@ -85,7 +85,6 @@ for csvFile in csvFiles:
             # replace spaces w/ underscores in tag names
             for i in range(len(tags)):
                 tags[i] = tags[i].replace(' ', '')
-                print tags[i]
         else:
             xmlData.write('\t'+'<wpt lat="'+latConvert(row[2])+'" lon="'+lonConvert(row[3])+'">'+'\n')
             xmlData.write('\t\t'+'<ele>'+row[4]+'</ele>'+'\n')
