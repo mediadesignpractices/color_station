@@ -39,7 +39,7 @@ Adafruit_GPS GPS(&mySerial);
 boolean usingInterrupt = false;
 void useInterrupt(boolean); // Func prototype keeps Arduino 0023 happy
 
-char csvHeader[120] = "Time, Date, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C";
+char csvHeader[120] = "UTC, Latitude, Longitude, Elevation, Speed (Knots), Angle, Fix, Quality, Satellites, Color Temp, Lux, R, G, B, C";
 
 // Set the pins used
 #define chipSelect 10
@@ -84,7 +84,7 @@ void error(uint8_t errno) {
   }
 }
 // Declare TCS
-Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_500MS, TCS34725_GAIN_1X);
+Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_700MS, TCS34725_GAIN_4X);
 
 
 void setup() {
@@ -233,26 +233,19 @@ void loop() {
       Serial.print("No Fix");
       return;
     }
+    
 
     // Super. log it!
     Serial.println("Log: start");
-
-
-    //Time  
-    logfile.print(GPS.hour, DEC);
-    logfile.print(':');
-    logfile.print(GPS.minute, DEC);
-    logfile.print(':');
-    logfile.print(GPS.seconds, DEC);
-    logfile.print('.');
-    logfile.print(GPS.milliseconds);
-    logfile.print(",");
-    //Date
-    logfile.print(GPS.month, DEC); 
-    logfile.print('/');
-    logfile.print(GPS.day, DEC);
-    logfile.print("/20");
-    logfile.print(GPS.year, DEC);
+    char tBuffer[9]=""; ///< This is the buffer for the string the sprintf outputs zero padded time
+    char dBuffer[9]=""; ///< This is the buffer for the string the sprintf outputs zero padded date
+    sprintf(dBuffer, "20%02d-%02d-%02d", GPS.year, GPS.month, GPS.day); //format date
+    sprintf(tBuffer, "%02d:%02d:%02d", GPS.hour, GPS.minute, GPS.seconds); //format time
+    //ISO TIME
+    logfile.print(dBuffer);
+    logfile.print("T");
+    logfile.print(tBuffer);
+    logfile.print("Z");  //UTC TIME OF DEVICE (WHO TURNED THIS ON BEFORE ME!)
     logfile.print(",");
     //Coordinates
     logfile.print(GPS.latitude, 4);
@@ -293,20 +286,10 @@ void loop() {
     Serial.println();
     Serial.println("Logged Data:");
     // Time
-    Serial.print(GPS.hour, DEC);
-    Serial.print(':');
-    Serial.print(GPS.minute, DEC);
-    Serial.print(':');
-    Serial.print(GPS.seconds, DEC);
-    Serial.print('.');
-    Serial.print(GPS.milliseconds);
-    Serial.print(", ");
-    // Date
-    Serial.print(GPS.month, DEC); 
-    Serial.print('/');
-    Serial.print(GPS.day, DEC);
-    Serial.print("/20");
-    Serial.print(GPS.year, DEC);
+    Serial.print(dBuffer);
+    Serial.print("T");
+    Serial.print(tBuffer);
+    Serial.print("Z");  //UTC TIME OF DEVICE (WHO TURNED THIS ON BEFORE ME!)
     Serial.print(", ");
     // Coordinates
     Serial.print(GPS.latitude, 4);
@@ -340,7 +323,7 @@ void loop() {
     Serial.print(b, DEC); 
     Serial.print(", ");
     Serial.println(c, DEC);
-
+    
     Serial.print("\n");
     Serial.println();
   }
