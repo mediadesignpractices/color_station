@@ -9,7 +9,7 @@ color station
 
 ## Synopsis
 
-This is a combination of two sets of code. The [first part](color_station/sheild_sdlog_gps_color/) is the code is a *Arduino Mega* needed to log GPS and color data.  [The second](/data-processing/) is a series of *Python* scripts I wrote to process the data in to various formats, which was necessary to visualize the project.
+This is a combination of two sets of code. The [first part](/sheild_sdlog_gps_color/) is the code is a *Arduino Mega* needed to log GPS and color data.  [The second](/data-processing/) is a series of *Python* scripts I wrote to process the data in to various formats, which was necessary to visualize the project.
 
 
 ## Motivation
