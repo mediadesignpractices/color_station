@@ -16,14 +16,6 @@ This is a combination of two sets of code. The [first part](color_station/sheild
 
 A single purpose device made up of a color sensors and gps coordinates to map the color of light at night in Los Angeles.
 
-## Code Example
-
-Show what the library or code does as concisely as possible, people should be able to figure out **how** your project solves their problem by looking at the code example or in the case of projects an example of what your code does by linking to a website or an image.
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
-
 
 ## Installation:
 
