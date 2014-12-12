@@ -1,4 +1,5 @@
 # First row of the csv file must be header!
+# CSV to tab delimited spreadsheet
 
 
 import csv
@@ -10,17 +11,17 @@ if len(sys.argv) != 2:
     os._exit(1)
 path=sys.argv[1] # get folder as a command line argument
 os.chdir(path)
-if not os.path.exists('./json'):
-    os.makedirs('./json')
+if not os.path.exists('./txt'):
+    os.makedirs('./txt')
 csvFiles = [f for f in os.listdir('.') if f.endswith('.csv') or f.endswith('.CSV')]
 
 for csvFile in csvFiles:
-    jsonFile = './json/'+csvFile[:-4] + '.geo.json'
+    txtFile = './txt/'+csvFile[:-4] + '.txt'
     csvData = csv.reader(open(csvFile))
-    jsonData = open(jsonFile, 'w')
+    tabData = open(txtFile, 'w')
 
     csvData = csv.reader(open(csvFile))
-    jsonData = open(jsonFile, 'w')
+    tabData = open(txtFile, 'w')
 
         #DEFINE FUNCTIONS
     # convert coordinates
@@ -65,11 +66,6 @@ for csvFile in csvFiles:
         else:
           return 'dgps'
 
-    # write header
-    jsonData.write('{' + '\n')
-    jsonData.write('\t'+'"type": "FeatureCollection",' + '\n')
-    jsonData.write('\t'+'"features": [' + '\n')
-
     # there must be only one top-level tag
     #write data to waypoints    
     rowNum = 0
@@ -82,32 +78,11 @@ for csvFile in csvFiles:
 
         else:
             if row[11] :
-                jsonData.write('\t\t'+'{'+'\n')
-                jsonData.write('\t\t\t'+'"type": "Feature",'+'\n')
-                jsonData.write('\t\t\t'+'"properties": {'+'\n')
-                jsonData.write('\t\t\t\t'+'"time": "'+row[0]+'",'+'\n')
-                jsonData.write('\t\t\t\t'+'"color_temp": "'+row[9]+'",'+'\n')
-                jsonData.write('\t\t\t\t'+'"lux": "'+row[10]+'",'+'\n')
-                jsonData.write('\t\t\t\t'+'"rgbc": "'+row[11]+','+row[12]+','+row[13]+','+row[14]+'",'+'\n')
-                jsonData.write('\t\t\t\t'+'"sat": "'+row[7]+'",'+'\n')
-                jsonData.write('\t\t\t\t'+'"fix": "'+fix(row[6], row[7])+'",'+'\n')
-                jsonData.write('\t\t\t\t'+'"sym": "Dot"'+'\n')
-                jsonData.write('\t\t\t'+'},'+'\n')
-                jsonData.write('\t\t\t'+'"geometry": {'+'\n')
-                jsonData.write('\t\t\t\t'+'"type": "Point",'+'\n')
-                jsonData.write('\t\t\t\t'+'"coordinates": ['+'\n')
-                jsonData.write('\t\t\t\t\t'+lonConvert(row[2])+','+'\n')
-                jsonData.write('\t\t\t\t\t'+latConvert(row[1])+','+'\n')
-                jsonData.write('\t\t\t\t\t'+row[3]+'\n')
-                jsonData.write('\t\t\t\t'+']\n')
-                jsonData.write('\t\t\t'+'}\n')
-                jsonData.write('\t\t'+'},\n')
+                tabData.write(row[0]+'\t');
+                tabData.write(row[9]+'\n');
         rowNum +=1
-
-    jsonData.write('\t]' + '\n')
-    jsonData.write('}' + '\n')
-    jsonData.close()
-    print ('writing '+csvFile+' to '+ jsonFile +'\n')
+    tabData.close()
+    print ('writing '+csvFile+' to '+ txtFile +'\n')
 print ('finished writing '+str(len(csvFiles))+' .json Files\n')
 
 
